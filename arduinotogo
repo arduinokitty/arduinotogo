@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+	      <script type = "text/JavaScript">
+         <!--
+            function AutoRefresh( t ) {
+               setTimeout("location.reload(true);", t);
+            }
+         //-->
+      </script>
+ <meta charset="utf-8">
+ <title>Code2Go(Home)</title>
+</head>
+<style>
+	nav{
+		background:white;
+		color:black;
+		font-size:25px;
+		font-style:italic;
+	}
+	body{
+		background: black;
+	}
+	p{
+		font-size:30px;
+		font-style:italic;
+		color:white;
+	}
+	</style>
+    <body onload="JavaScript:AutoRefresh(5000)">
+	<nav>
+		<div1>
+		<a href="Code2Goprodjects.html"title="prodjects">
+			<div2>
+				Prodjects!
+			</div2>
+		</div1>
+	</nav>
+	<p> 
+		Hello, welcome to Code2Go, this is my website where I like to share my arduino and other coding prodjects!
+		Click the prodjects icon at the top to see a list of my prodjects, if you cant find the prodject your looking for or would like to suggest something you can find my email in the my info page.
+		You can also go to arduino.cc to view some of my other profjects (my username is ScientificCrabs). You can also suggest changes to my website through email, just copy the code that I use for my website (you can find it in the Site Code section) and email me the edited code(please dont spam). Anyway, hope you enjoy my website, and thank you for visiting!
+	</p>
+	<div>
+		Most of our features and all prodjects are not here yet, hang tight!
+	</div>
+</body>
+</html>
